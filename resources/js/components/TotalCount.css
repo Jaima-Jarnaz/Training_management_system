@@ -1,0 +1,19 @@
+#icon {
+    font-size: 7rem;
+    color: white !important;
+    margin-left: 80px;
+}
+#totalLabel {
+    font-size: 55px;
+    color: white !important;
+    text-align: center;
+    margin-left: 6rem;
+}
+
+#counttext {
+    font-size: 34px;
+    color: white !important;
+    text-align: center;
+    margin-top: 17px;
+    margin-left: -33px;
+}
